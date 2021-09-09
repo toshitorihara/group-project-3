@@ -1,5 +1,5 @@
 # legendary-system
-![Image](Part III/Images/supercharger_tesla.jfif)
+![Image](https://github.com/sissa81/legendary-system/tree/main/Part%20III/Images//supercharger_tesla.jfif)
 ## Objective: Supercharger Location Analysis
 A group project for visualization of supercharger stations in California to navigate best locations to implement supercharger stations based on current saturations and EV populations.
 
