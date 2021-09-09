@@ -19,16 +19,20 @@ Michael Farm<br>
 `MongoDB`
 
 ## Data Source: 
-https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/all/<br>
+https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/all/ - Using for EV Charger Mapping<br>
 https://afdc.energy.gov/data/search?q=electricity<br>
+https://www.carvana.com/cars/tesla<br>
 
 ## Extract, Transform, Load (ETL)
-### Part I - 
+### Part I -  Leaflet Interactive Map
+* 
 
-### Part II - 
+
+### Part II - Interactive JavaScript Table
+* 
 
 ### Part III - Flask App and Webscraping
-* Utilized Flask app to connect `MongoDB` with different Tesla models to show examples of supercharger EVs in general 
+* Utilized Flask app to connect `MongoDB` with different Tesla models to show examples of supercharger EVs in data base called `tesla_app` 
 * Get information (make, model, price, and images) of Tesla models by web-scraping off of [Carvanas](https://www.carvana.com/cars/tesla)
 * Generate [Tesla Scraper](https://github.com/toshitorihara/project3/tree/main/Images/tesla_scraper.png) to display above data in one single html site
 
