@@ -28,9 +28,9 @@ https://afdc.energy.gov/data/search?q=electricity<br>
 ### Part II - 
 
 ### Part III - Flask App
-Utilized Flask app to connect MongoDB with different Tesla models to show the popularity of supercharger cars.
-Get general information (make, model, price, and images) of Tesla models by web-scraping off of Carvanas
-Generated Tesla Scraper html to display above data in one single  
+* Utilized Flask app to connect `MongoDB` with different Tesla models to show the popularity of supercharger EVs in general 
+* Get information (make, model, price, and images) of Tesla models by web-scraping off of [Carvanas](https://www.carvana.com/cars/tesla)
+* Generate [Tesla Scraper]() to display above data in one single html site
 
 ## Requirements
 * Your visualization must include a Python Flask–powered API, HTML/CSS, JavaScript, and at least one database (SQL, MongoDB, SQLite, etc.). 
