@@ -1,5 +1,5 @@
 # Supercharger Location Analysis
-
+![Image](Images/supercharger_tesla.jfif)
 ## Objective
 A group project for visualization of supercharger stations in California to navigate best locations to implement supercharger stations based on current saturations and EV populations.
 
