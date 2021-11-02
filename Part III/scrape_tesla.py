@@ -42,4 +42,5 @@ def scrape_all():
 
     browser.quit()   
 
-    return teslas   
+    return teslas
+     
